@@ -16,9 +16,31 @@ Proyecto de Análisis de Datos, en el que analizo siniestros en la Ciudad Autón
 
 #### En el dataset contamos con la información de los accidentes fatales, ocurridos en la Ciudad Autónoma de Buenos Aires en los años 2016, 2017, 2018, 2019, 2020 y 2021.
 
+### Descenso de accidentes fatales en los Años 2019 y 2020.
+
 #### Analizada la información, se desprende que en los años 2019 y 2020 hubo una significatuva disminución de los accidentes de tránsito con víctimas fatales. Se pudo corroborar que en el año 2019 esa baja se debió al Plan de Seguridad Vial Porteño, en las que se tomo ciertas medidas como campañas de educación y controles viales, que dieron por resultado alrededor de un 30% de reducción de fallecimientos. Por otro lado se pudo observar, que en el 2020 se volvió a reducir notoriamente el número de víctimas, pero en esta oportunidad se debió al confinamiento obligatorio en la ciudad.
 
-## Link Plan de Seguridad Vial Porteño [Links](https://www.lanacion.com.ar/sociedad/entre-2018-2019-bajaron-30-muertes-accidentes-nid2376375/)
+#### Link Plan de Seguridad Vial Porteño [Link](https://www.lanacion.com.ar/sociedad/entre-2018-2019-bajaron-30-muertes-accidentes-nid2376375/)
+
+### Víctimas
+
+#### En cuanto al rango de edad de las víctimas, se oberva que el 46 % son adultos (entre 30 a 59 años) y que los siguen jóvenes con un 30 % (19 a 29 años) y ancianos con un 20.5% (60 en adelante).
+
+#### Respecto del sexo, el 76.2 es masculino, mientras que el 23.8% femenino.
+
+#### Rol de la Víctima: podemos obervar que el 42.9 % son motociclistas, seguido de 38.6 % de peatones.
+
+#### Podemos concluir que la mayoría de víctimas fatales son hombres, adultos y jóvenes, los cuales en su mayoría son motociclistas y peatones.
+
+### Lugar del accidente
+
+#### La mayor cantidad de accidentes se producen en avenidas con el 61.6 %. Las comunas con mas accidentes fatales son las Comuna 1, 4 y 9.
+
+### Horario
+
+#### La franja horaria en que más accidentes ocurren es de noche  y madrugada con el 46.3 %.
+
+
 
 
 
