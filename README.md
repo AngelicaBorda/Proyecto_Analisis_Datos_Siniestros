@@ -1,18 +1,18 @@
-# Proyecto_Analisis_Datos_Siniestros
+# **Proyecto_Analisis_Datos_Siniestros**
 Proyecto de Análisis de Datos, en el que analizo siniestros en la Ciudad Autónoma de Buenos Aires.
 
-## Rol a Desarrollar
+## **Rol a Desarrollar**
 
 #### El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, me solicita la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para ello, me disponibilizan un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Este dataset se encuentra en formato xlsx y contiene dos hojas llamadas: hechos y víctimas. 
 
 
-## EDA
+## **EDA**
 
 #### El dataset brindado es un archivo excel, compuesto por la hoja 0 con datos sobre los hechos, hoja 1 un diccionario sobre hechos, hoja 2 con datos sobre las víctimas y hoja 3 con un diccionario sobre victimas. 
 #### Mi primer paso es realizar un análisis exploratorio de datos, veo los valores nulos, duplicados y valores faltantes. Por lo que decido eliminar algunas filas y columnas. Luego busque outliers, pero teniendo en cuenta la temática que analizamos, no detecte ninguno.
 
 
-## Análisis de Datos
+## **Análisis de Datos**
 
 #### En el dataset contamos con la información de los accidentes fatales, ocurridos en la Ciudad Autónoma de Buenos Aires en los años 2016, 2017, 2018, 2019, 2020 y 2021.
 
@@ -22,7 +22,7 @@ Proyecto de Análisis de Datos, en el que analizo siniestros en la Ciudad Autón
 
 #### Link Plan de Seguridad Vial Porteño [Link](https://www.lanacion.com.ar/sociedad/entre-2018-2019-bajaron-30-muertes-accidentes-nid2376375/)
 
-### Víctimas
+### **Víctimas**
 
 #### En cuanto al rango de edad de las víctimas, se oberva que el 46 % son adultos (entre 30 a 59 años) y que los siguen jóvenes con un 30 % (19 a 29 años) y ancianos con un 20.5% (60 en adelante).
 
@@ -32,16 +32,16 @@ Proyecto de Análisis de Datos, en el que analizo siniestros en la Ciudad Autón
 
 #### Podemos concluir que la mayoría de víctimas fatales son hombres, adultos y jóvenes, los cuales en su mayoría son motociclistas y peatones.
 
-### Lugar del accidente
+### **Lugar del accidente**
 
 #### La mayor cantidad de accidentes se producen en avenidas con el 61.6 %. Las comunas con mas accidentes fatales son las Comuna 1, 4 y 9.
 
-### Horario
+### **Horario**
 
 #### La franja horaria en que más accidentes ocurren es de noche  y madrugada con el 46.3 %.
 
-
-
+# KPIs
+hola
 
 
 
