@@ -50,7 +50,14 @@ La mayor cantidad de accidentes se producen en avenidas con el 61.6 %. Las comun
 
 La franja horaria en que más accidentes ocurren es de noche  y madrugada con el 46.3 %.
 
-# KPIs
+## 'KPIs'
+
+- *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
+
+De acuerdo al último censo nacional elaborado por el Instituto Nacional de Estadística y Censos en 2022, la Ciudad Autónoma de Buenos Aires
+cuenta con 3.121.707 habitantes [Link](https://www.argentina.gob.ar/caba/)) 
+
+Las víctimas fatales en accidentes de tránsito en el segundo semestre de 2021 fueron 42, por lo que la tasa de homicidios en siniestros viales en el segundo semestre del año 2021 fue del 1.34, lo que implica que para cumplir con el KPI propuesto en el segundo semestre del 2022, habría que reducir en 4.2 a las víctimas fatales.
 
 
 
