@@ -50,16 +50,25 @@ La mayor cantidad de accidentes se producen en avenidas con el 61.6 %. Las comun
 
 La franja horaria en que más accidentes ocurren es de noche  y madrugada con el 46.3 %.
 
-## 'KPIs'
+## KPIs
 
-- *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
+    - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
 
 De acuerdo al último censo nacional elaborado por el Instituto Nacional de Estadística y Censos en 2022, la Ciudad Autónoma de Buenos Aires
-cuenta con 3.121.707 habitantes [Link](https://www.argentina.gob.ar/caba/)) 
+cuenta con 3.121.707 de habitantes [Link](https://www.argentina.gob.ar/caba/).
 
-Las víctimas fatales en accidentes de tránsito en el segundo semestre de 2021 fueron 42, por lo que la tasa de homicidios en siniestros viales en el segundo semestre del año 2021 fue del 1.34, lo que implica que para cumplir con el KPI propuesto en el segundo semestre del 2022, habría que reducir en 4.2 a las víctimas fatales.
+Las víctimas fatales en accidentes de tránsito en el segundo semestre de 2021 fueron 42, por lo que su tasa de homicidios fue del 1.34 por 100.000 habitantes, lo que implica que para cumplir con el KPI propuesto en el primer semestre del 2022, habría que reducir esa tasa en un 10% (0.13), lo que nos daría una *tasa de 1.21 por 100.000 habitantes para el primer semestre del 2022.* Lo que significa alrededor de *4.2 menos de víctimas fatales*.
 
 
+    - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
+
+Las víctimas Fatales en accidentes de motos en el año 2020 fueron 28 y en el 2021 fueron 46.
+Por lo tanto la evolución en el año 2021 respecto del 2020 fue un aumento del 64.29 %
+Se concluye entonces, que no se logró el objetivo propuesto.
+
+   - *Reducir en un 10% en el año 2022, la cantidad de peatones como víctimas fatales, respecto al año 2021*
+
+Los peatones, victimas fatales en el 2021 fueron un total de 33, por lo que para el año 2022, para cumplir con el objetivo propuesto se deberán reducir las victimás en un 3,3.
 
 
 
