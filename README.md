@@ -26,6 +26,10 @@ En el dataset contamos con la información de los accidentes fatales, ocurridos 
 | 2021 | 97 |
 | Total | 717 |
 
+
+<img src="https://github.com/AngelicaBorda/Proyecto_Analisis_Datos_Siniestros/blob/main/evolucion_muertes.png">
+</p>
+
 #### Descenso de accidentes fatales en los Años 2019 y 2020.
 
 Analizada la información, se desprende que en los años 2019 y 2020 hubo una significatuva disminución de los accidentes de tránsito con víctimas fatales. Se pudo corroborar que en el año 2019 esa baja se debió al Plan de Seguridad Vial Porteño, en las que se tomo ciertas medidas como campañas de educación y controles viales, que dieron por resultado alrededor de un 30% de reducción de fallecimientos. Por otro lado se pudo observar, que en el 2020 se volvió a reducir notoriamente el número de víctimas, pero en esta oportunidad se debió al confinamiento obligatorio en la ciudad.
