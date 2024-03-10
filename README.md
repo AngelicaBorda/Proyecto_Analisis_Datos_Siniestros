@@ -1,5 +1,5 @@
-# **Proyecto_Analisis_Datos_Siniestros**
-Proyecto de Análisis de Datos, en el que analizo siniestros en la Ciudad Autónoma de Buenos Aires.
+# **Siniestros en CABA**
+Proyecto de Análisis de Datos, en el que elaboro informe de los siniestros en la Ciudad Autónoma de Buenos Aires, para el Observatorio de Movilidad y Seguridad Vial.
 
 ## **Rol a Desarrollar**
 
@@ -74,5 +74,8 @@ Se concluye entonces, que no se logró el objetivo propuesto.
 
 Los peatones, victimas fatales en el 2021 fueron un total de 33, por lo que para el año 2022, para cumplir con el objetivo propuesto se deberán reducir las victimás en un 3,3.
 
+## **Dashboard**
 
+<img src="https://github.com/AngelicaBorda/Proyecto_Analisis_Datos_Siniestros/blob/main/dashboard.png">
 
+Descargalo aqui [Link] (https://drive.google.com/file/d/1EBCJUH6pQw4B1bux3P9wKdzi9Zeh8Rdf/view?usp=sharing/)
